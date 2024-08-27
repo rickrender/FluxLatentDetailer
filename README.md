@@ -13,6 +13,9 @@ This was an experiment that just seems to work, I really don't know how or why. 
 This workflow uses `araminta_k_flux_koda.safetensors` which can be found at CivitAI.
 [https://civitai.com/models/653093/Koda%20Diffusion%20(Flux)](https://civitai.com/models/653093/Koda%20Diffusion%20(Flux)) -- Amazing lora!
 
+The Kodachrome LUT file can be downloaded from here:
+[https://www.freepresets.com/product/free-lut-kodachrome-lookup-table/](https://www.freepresets.com/product/free-lut-kodachrome-lookup-table/)
+
 ## Setup
 
 The Flux.1 checkpoint used in this workflow is the dev version. If you're missing any custom nodes or get errors/red nodes:
