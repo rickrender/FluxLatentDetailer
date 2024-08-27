@@ -16,6 +16,8 @@ This workflow uses `araminta_k_flux_koda.safetensors` which can be found at Civi
 The Kodachrome LUT file can be downloaded from here:
 [https://www.freepresets.com/product/free-lut-kodachrome-lookup-table/](https://www.freepresets.com/product/free-lut-kodachrome-lookup-table/)
 
+LUT goes into ComfyUI\custom_nodes\ComfyUI_essentials\luts, if you are using cubiq's comfy_essential nodes like in this workflow.
+
 ## Setup
 
 The Flux.1 checkpoint used in this workflow is the dev version. If you're missing any custom nodes or get errors/red nodes:
